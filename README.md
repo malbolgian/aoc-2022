@@ -14,3 +14,4 @@ All problems can be found [here](https://adventofcode.com/2022).
 | 03 | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | ⭐ ⭐ |
 | 04 | [Camp Cleanup](https://adventofcode.com/2022/day/4) | ⭐ ⭐ |
 | 05 | [Supply Stacks](https://adventofcode.com/2022/day/5) | ⭐ ⭐ |
+| 06 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | ⭐ ⭐ |
