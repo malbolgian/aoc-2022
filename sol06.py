@@ -15,6 +15,5 @@ def part2(data: str) -> int:
     return -1
 
 if __name__ == '__main__':
-    print ('')
     print ('Part One:', part1(parse_input('input/day06.txt')))
     print ('Part Two:', part2(parse_input('input/day06.txt')))
