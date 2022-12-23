@@ -47,7 +47,6 @@ def part2(data: list[list[str]]) -> int:
         if dirs[path] >= MIN_DELETE and dirs[path] < min_dir:
             min_dir = dirs[path]
     return min_dir
-    
 
 if __name__ == '__main__':
     print ('Part One:', part1(parse_input('input/day07.txt')))
