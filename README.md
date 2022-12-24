@@ -16,3 +16,4 @@ All problems can be found [here](https://adventofcode.com/2022).
 | 05 | [Supply Stacks](https://adventofcode.com/2022/day/5) | ⭐ ⭐ |
 | 06 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | ⭐ ⭐ |
 | 07 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | ⭐ ⭐ |
+| 08 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | ⭐ ⭐ |
