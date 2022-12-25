@@ -18,3 +18,4 @@ All problems can be found [here](https://adventofcode.com/2022).
 | 07 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | ⭐ ⭐ |
 | 08 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | ⭐ ⭐ |
 | 09 | [Rope Bridge](https://adventofcode.com/2022/day/9) | ⭐ ⭐ |
+| 10 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | ⭐ ⭐ |
