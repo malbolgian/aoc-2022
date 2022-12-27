@@ -23,3 +23,4 @@ All problems can be found [here](https://adventofcode.com/2022).
 | 12 | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | ⭐ ⭐ |
 | 13 | [Distress Signal](https://adventofcode.com/2022/day/13) | ⭐ ⭐ |
 | 14 | [Regolith Reservoir](https://adventofcode.com/2022/day/14) | ⭐ ⭐ |
+| 15 | [Beacon Exclusion Zone](https://adventofcode.com/2022/day/15) | ⭐ ⭐ |
