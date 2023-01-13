@@ -27,3 +27,4 @@ All problems can be found [here](https://adventofcode.com/2022).
 | 16 | [Proboscidea Volcanium](https://adventofcode.com/2022/day/16) | ⭐ ⭐ |
 | 17 | [Pyroclastic Flow](https://adventofcode.com/2022/day/17) | ⭐ ⭐ |
 | 18 | [Boiling Boulders](https://adventofcode.com/2022/day/18) | ⭐ ⭐ |
+| 19 | [Not Enough Minerals](https://adventofcode.com/2022/day/19) | ⭐ ⭐ |
