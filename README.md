@@ -30,6 +30,6 @@ All problems can be found [here](https://adventofcode.com/2022).
 | 19 | [Not Enough Minerals](https://adventofcode.com/2022/day/19) | ⭐ ⭐ |
 | 20 | [Grove Positioning System](https://adventofcode.com/2022/day/20) | ⭐ ⭐ |
 | 21 | [Monkey Math](https://adventofcode.com/2022/day/21) | ⭐ ⭐ |
-| 22 | [Monkey Map](https://adventofcode.com/2022/day/22) | |
+| 22 | [Monkey Map](https://adventofcode.com/2022/day/22) | ⭐ ⭐ |
 | 23 | [Unstable Diffusion](https://adventofcode.com/2022/day/23) | ⭐ ⭐ |
 | 24 | [Blizzard Basin](https://adventofcode.com/2022/day/24) | ⭐ ⭐ |
