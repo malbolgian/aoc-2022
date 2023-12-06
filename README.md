@@ -2,7 +2,7 @@
 
 ## Overview
 
-Solutions to Advent of Code 2022 done in Python 3.9.:evergreen_tree:
+Solutions to Advent of Code 2022 done in Python 3.9. :evergreen_tree:
 
 All problems can be found [here](https://adventofcode.com/2022).
 
